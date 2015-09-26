@@ -6,7 +6,7 @@
             ],
       "matches": [ "\u003Call_urls\u003E" ]
   } ],
-  "background": { "scripts": ["lib/background.js"] },
+  "background": { "scripts": [] },
   "options_page": "views/options.html",
   "name": "Ola",
   "version": "1.0",
